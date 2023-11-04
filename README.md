@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi I am Borgar Flaen Stensrud. I have worked as a developer in my own small business. I developed web sites in js, php, html and css. I also used some c# and some node.js. 
 
-<!--
-**borgar90/borgar90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to create stuff with mathematics. 
 
-Here are some ideas to get you started:
+The languages I write:
+<--
+php
+c#
+java
+visual basic
+javascript
+html
+css
+python
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<--
+
+- 🔭 I’m currently working on a chess social network. One could play PVP PVComputer or Practice Openings/Endings there. 
+- 🌱 I’m currently learning React
+- 💬 Ask me about web development
+- 📫 How to reach me: borgar90@gmail.com
+- ⚡ Fun fact: I made my first website. 18 years ago. I have lost the files by now.
+  
 -->
