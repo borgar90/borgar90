@@ -18,11 +18,9 @@ Apple script
 
 <--
 
-- 🔭 Last year and this spring I was working on a chess social network. One could play PVP PVComputer or Practice Openings/Endings there. 
-- 🌱 I’m currently working on some start-up projects of my own
 - 💬 Ask me about web development
-- 📫 How to reach me: borgar90@gmail.com
+- 📫 How to reach me: borgar@borgar-stensrud.no
 - ⚡ Fun fact: I made my first website. 18 years ago. I have lost the files by now.
-- 📚 Working on my own projects, and looking for a job before I finish my 2nd bachelor this summer.   
+- 📚 Working on my own projects, and looking for a job after I finished my 2nd bachelor this summer.   
   
 -->
