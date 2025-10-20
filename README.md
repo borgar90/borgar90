@@ -19,8 +19,8 @@ Apple script
 <--
 
 - 💬 Ask me about web development
-- 📫 How to reach me: borgar@borgar-stensrud.no
-- ⚡ Fun fact: I made my first website. 18 years ago. I have lost the files by now.
+- 📫 How to reach me: borga90@gmail.com
+- ⚡ Fun fact: I made my first website. 19 years ago. I have lost the files by now.
 - 📚 Working on my own projects, and looking for a job after I finished my 2nd bachelor this summer.   
   
 -->
